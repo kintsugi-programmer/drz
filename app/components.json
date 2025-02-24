@@ -1,47 +1,47 @@
 {
-  "3D Sections": {
+  "3D_Sections": {
     "description": "3D effect sections",
     "components": [
       { "id": "A1", "name": "A1", "component": "<A1 />" },
       { "id": "A2", "name": "A2", "component": "<A2 />" }
     ]
   },
-  "FAQ Sections": {
+  "FAQ_Sections": {
     "description": "Frequently Asked Questions sections",
     "components": [
       { "id": "B1", "name": "B1", "component": "<B1 />" },
       { "id": "B2", "name": "B2", "component": "<B2 />" }
     ]
   },
-  "Features Sections": {
+  "Features_Sections": {
     "description": "Feature highlight sections",
     "components": [
       { "id": "C1", "name": "C1", "component": "<C1 />" },
       { "id": "C2", "name": "C2", "component": "<C2 />" }
     ]
   },
-  "Form Sections": {
+  "Form_Sections": {
     "description": "Form sections for input collection",
     "components": [
       { "id": "D1", "name": "D1", "component": "<D1 />" },
       { "id": "D2", "name": "D2", "component": "<D2 />" }
     ]
   },
-  "Hero Sections": {
+  "Hero_Sections": {
     "description": "Hero sections for landing pages",
     "components": [
       { "id": "E1", "name": "E1", "component": "<E1 />" },
       { "id": "E2", "name": "E2", "component": "<E2 />" }
     ]
   },
-  "Kanban Boards": {
+  "Kanban_Boards": {
     "description": "Kanban boards for task management",
     "components": [
       { "id": "F1", "name": "F1", "component": "<F1 />" },
       { "id": "F2", "name": "F2", "component": "<F2 />" }
     ]
   },
-  "Pricing Sections": {
+  "Pricing_Sections": {
     "description": "Pricing plans and tables",
     "components": [
       { "id": "G1", "name": "G1", "component": "<G1 />" },
@@ -55,14 +55,14 @@
       { "id": "H2", "name": "H2", "component": "<H2 />" }
     ]
   },
-  "Sign In Sections": {
+  "Sign_In_Sections": {
     "description": "Sign-in and authentication sections",
     "components": [
       { "id": "I1", "name": "I1", "component": "<I1 />" },
       { "id": "I2", "name": "I2", "component": "<I2 />" }
     ]
   },
-  "Testimonial Sections": {
+  "Testimonial_Sections": {
     "description": "User testimonial sections",
     "components": [
       { "id": "J1", "name": "J1", "component": "<J1 />" },
@@ -111,7 +111,7 @@
       { "id": "P2", "name": "P2", "component": "<P2 />" }
     ]
   },
-  "Dropdown Menus": {
+  "Dropdown_Menus": {
     "description": "Dropdown menus for navigation",
     "components": [
       { "id": "Q1", "name": "Q1", "component": "<Q1 />" },
@@ -153,7 +153,7 @@
       { "id": "V2", "name": "V2", "component": "<V2 />" }
     ]
   },
-  "Navbars & Menus": {
+  "Navbars_&_Menus": {
     "description": "Navigation bars and menus",
     "components": [
       { "id": "W1", "name": "W1", "component": "<W1 />" },
