@@ -1,0 +1,212 @@
+{
+  "3D Sections": {
+    "description": "3D effect sections",
+    "components": [
+      { "id": "A1", "name": "A1", "component": "<A1 />" },
+      { "id": "A2", "name": "A2", "component": "<A2 />" }
+    ]
+  },
+  "FAQ Sections": {
+    "description": "Frequently Asked Questions sections",
+    "components": [
+      { "id": "B1", "name": "B1", "component": "<B1 />" },
+      { "id": "B2", "name": "B2", "component": "<B2 />" }
+    ]
+  },
+  "Features Sections": {
+    "description": "Feature highlight sections",
+    "components": [
+      { "id": "C1", "name": "C1", "component": "<C1 />" },
+      { "id": "C2", "name": "C2", "component": "<C2 />" }
+    ]
+  },
+  "Form Sections": {
+    "description": "Form sections for input collection",
+    "components": [
+      { "id": "D1", "name": "D1", "component": "<D1 />" },
+      { "id": "D2", "name": "D2", "component": "<D2 />" }
+    ]
+  },
+  "Hero Sections": {
+    "description": "Hero sections for landing pages",
+    "components": [
+      { "id": "E1", "name": "E1", "component": "<E1 />" },
+      { "id": "E2", "name": "E2", "component": "<E2 />" }
+    ]
+  },
+  "Kanban Boards": {
+    "description": "Kanban boards for task management",
+    "components": [
+      { "id": "F1", "name": "F1", "component": "<F1 />" },
+      { "id": "F2", "name": "F2", "component": "<F2 />" }
+    ]
+  },
+  "Pricing Sections": {
+    "description": "Pricing plans and tables",
+    "components": [
+      { "id": "G1", "name": "G1", "component": "<G1 />" },
+      { "id": "G2", "name": "G2", "component": "<G2 />" }
+    ]
+  },
+  "Stats": {
+    "description": "Statistics and data display",
+    "components": [
+      { "id": "H1", "name": "H1", "component": "<H1 />" },
+      { "id": "H2", "name": "H2", "component": "<H2 />" }
+    ]
+  },
+  "Sign In Sections": {
+    "description": "Sign-in and authentication sections",
+    "components": [
+      { "id": "I1", "name": "I1", "component": "<I1 />" },
+      { "id": "I2", "name": "I2", "component": "<I2 />" }
+    ]
+  },
+  "Testimonial Sections": {
+    "description": "User testimonial sections",
+    "components": [
+      { "id": "J1", "name": "J1", "component": "<J1 />" },
+      { "id": "J2", "name": "J2", "component": "<J2 />" }
+    ]
+  },
+  "Accordions": {
+    "description": "Accordion components for collapsible content",
+    "components": [
+      { "id": "K1", "name": "K1", "component": "<K1 />" },
+      { "id": "K2", "name": "K2", "component": "<K2 />" }
+    ]
+  },
+  "Buttons": {
+    "description": "Various button styles",
+    "components": [
+      { "id": "L1", "name": "L1", "component": "<L1 />" },
+      { "id": "L2", "name": "L2", "component": "<L2 />" }
+    ]
+  },
+  "Calendars": {
+    "description": "Calendar UI components",
+    "components": [
+      { "id": "M1", "name": "M1", "component": "<M1 />" },
+      { "id": "M2", "name": "M2", "component": "<M2 />" }
+    ]
+  },
+  "Cards": {
+    "description": "Card components for UI display",
+    "components": [
+      { "id": "N1", "name": "N1", "component": "<N1 />" },
+      { "id": "N2", "name": "N2", "component": "<N2 />" }
+    ]
+  },
+  "Carousels": {
+    "description": "Slideshow and carousel components",
+    "components": [
+      { "id": "O1", "name": "O1", "component": "<O1 />" },
+      { "id": "O2", "name": "O2", "component": "<O2 />" }
+    ]
+  },
+  "Countdown": {
+    "description": "Countdown timers",
+    "components": [
+      { "id": "P1", "name": "P1", "component": "<P1 />" },
+      { "id": "P2", "name": "P2", "component": "<P2 />" }
+    ]
+  },
+  "Dropdown Menus": {
+    "description": "Dropdown menus for navigation",
+    "components": [
+      { "id": "Q1", "name": "Q1", "component": "<Q1 />" },
+      { "id": "Q2", "name": "Q2", "component": "<Q2 />" }
+    ]
+  },
+  "Grids": {
+    "description": "Grid-based layouts",
+    "components": [
+      { "id": "R1", "name": "R1", "component": "<R1 />" },
+      { "id": "R2", "name": "R2", "component": "<R2 />" }
+    ]
+  },
+  "Inputs": {
+    "description": "Input fields for forms",
+    "components": [
+      { "id": "S1", "name": "S1", "component": "<S1 />" },
+      { "id": "S2", "name": "S2", "component": "<S2 />" }
+    ]
+  },
+  "Links": {
+    "description": "Link components",
+    "components": [
+      { "id": "T1", "name": "T1", "component": "<T1 />" },
+      { "id": "T2", "name": "T2", "component": "<T2 />" }
+    ]
+  },
+  "Loaders": {
+    "description": "Loading indicators",
+    "components": [
+      { "id": "U1", "name": "U1", "component": "<U1 />" },
+      { "id": "U2", "name": "U2", "component": "<U2 />" }
+    ]
+  },
+  "Modals": {
+    "description": "Modal pop-ups",
+    "components": [
+      { "id": "V1", "name": "V1", "component": "<V1 />" },
+      { "id": "V2", "name": "V2", "component": "<V2 />" }
+    ]
+  },
+  "Navbars & Menus": {
+    "description": "Navigation bars and menus",
+    "components": [
+      { "id": "W1", "name": "W1", "component": "<W1 />" },
+      { "id": "W2", "name": "W2", "component": "<W2 />" }
+    ]
+  },
+  "Notifications": {
+    "description": "Notification alerts",
+    "components": [
+      { "id": "X1", "name": "X1", "component": "<X1 />" },
+      { "id": "X2", "name": "X2", "component": "<X2 />" }
+    ]
+  },
+  "Other": {
+    "description": "Miscellaneous UI components",
+    "components": [
+      { "id": "Y1", "name": "Y1", "component": "<Y1 />" },
+      { "id": "Y2", "name": "Y2", "component": "<Y2 />" }
+    ]
+  },
+  "Progress": {
+    "description": "Progress indicators",
+    "components": [
+      { "id": "Z1", "name": "Z1", "component": "<Z1 />" },
+      { "id": "Z2", "name": "Z2", "component": "<Z2 />" }
+    ]
+  },
+  "Tabs": {
+    "description": "Tabbed navigation components",
+    "components": [
+      { "id": "AA1", "name": "AA1", "component": "<AA1 />" },
+      { "id": "AA2", "name": "AA2", "component": "<AA2 />" }
+    ]
+  },
+  "Tables": {
+    "description": "Table components for displaying data",
+    "components": [
+      { "id": "AB1", "name": "AB1", "component": "<AB1 />" },
+      { "id": "AB2", "name": "AB2", "component": "<AB2 />" }
+    ]
+  },
+  "Text": {
+    "description": "Text-related UI components",
+    "components": [
+      { "id": "AC1", "name": "AC1", "component": "<AC1 />" },
+      { "id": "AC2", "name": "AC2", "component": "<AC2 />" }
+    ]
+  },
+  "Toggles": {
+    "description": "Toggles for switching states",
+    "components": [
+      { "id": "AD1", "name": "AD1", "component": "<AD1 />" },
+      { "id": "AD2", "name": "AD2", "component": "<AD2 />" }
+    ]
+  }
+}
